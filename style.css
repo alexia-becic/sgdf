@@ -128,7 +128,7 @@ div.slidershow{
 }
 div.middle{
   position: absolute;
-  top: 100%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -211,20 +211,13 @@ a.sous-menu:hover{
 }
 #r4:checked ~ .s1{
   margin-left: -540%;
-}
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }   
 
 div.footers{
-    margin-top: 50%;
+    margin-top: 57%;
     margin-bottom: -45%;
     background: #003a5d;
     color: #ffffff;
-    height: 57%;
     position: relative;
 }
 
